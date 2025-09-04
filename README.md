@@ -78,7 +78,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-**صور البرنامج:**
+**صورة البرنامج:**
 
 
 ![Network Monitor Screenshot](images/img.png)
