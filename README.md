@@ -1,6 +1,5 @@
 # 🕵️‍♂️ Network Monitor (Python + Microservices)
 
-**English:**
 Network Monitor is a simple Python application that monitors network connections and shows:
 
 * Open programs + IP + port.
@@ -48,7 +47,7 @@ python run.py
 
 ---
 
-**العربي:**
+
 برنامج Network Monitor بسيط مكتوب بالبايثون، يراقب اتصالات الشبكة ويعرض:
 
 * البرامج المفتوحة + الـ IP + البورت.
