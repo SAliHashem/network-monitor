@@ -1,40 +1,95 @@
 # 🕵️‍♂️ Network Monitor (Python + Microservices)
 
-Network Monitor بسيط مكتوب بالبايثون، يراقب اتصالات الشبكة ويعرض:
-- البرامج المفتوحة + الـ IP + البورت.
-- موقع الـ IP (الدولة/المدينة).
-- استهلاك الشبكة بالوقت الفعلي.
-- Logs محفوظة للاسترجاع لاحقًا.
+**English:**
+Network Monitor is a simple Python application that monitors network connections and shows:
 
-## ⚙️ المميزات
-- Microservices Architecture (كل خدمة مستقلة).
-- GUI بواجهة سهلة (PyQt5).
-- GeoIP Lookup باستخدام MaxMind.
-- SQLite لتخزين السجلات.
+* Open programs + IP + port.
+* IP location (country/city).
+* Real-time network usage.
+* Logs saved for later review.
 
-## 📦 التثبيت
+**Features:**
+
+* Microservices Architecture (each service is independent).
+* GUI with PyQt5.
+* GeoIP Lookup using MaxMind.
+* SQLite for logs storage.
+
+**Installation:**
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/network-monitor.git
 cd network-monitor
 pip install -r requirements.txt
 ```
 
-## ▶️ التشغيل
+**Run:**
+
 ```bash
 python run.py
 ```
-## 🖼️ صور من البرنامج
+
+**Screenshots:**
 ![Network Monitor Screenshot](images/img.png)
 
+**Technologies used:**
 
-## 🛠️ التقنيات المستخدمة
-- Python 3.x
-- psutil
-- geoip2
-- FastAPI (للتواصل بين الخدمات)
-- PyQt5
+* Python 3.x
+* psutil
+* geoip2
+* FastAPI
+* PyQt5
 
-## ✨ المساهمة
-- Fork المشروع.
-- اعمل تغييراتك.
-- افتح Pull Request.
+**Contributing:**
+
+* Fork the project.
+* Make your changes.
+* Open a Pull Request.
+
+---
+
+**العربي:**
+برنامج Network Monitor بسيط مكتوب بالبايثون، يراقب اتصالات الشبكة ويعرض:
+
+* البرامج المفتوحة + الـ IP + البورت.
+* موقع الـ IP (الدولة/المدينة).
+* استهلاك الشبكة بالوقت الفعلي.
+* Logs محفوظة للاسترجاع لاحقًا.
+
+**المميزات:**
+
+* Microservices Architecture (كل خدمة مستقلة).
+* واجهة GUI سهلة باستخدام PyQt5.
+* GeoIP Lookup باستخدام MaxMind.
+* تخزين السجلات في SQLite.
+
+**التثبيت:**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/network-monitor.git
+cd network-monitor
+pip install -r requirements.txt
+```
+
+**التشغيل:**
+
+```bash
+python run.py
+```
+
+**صور البرنامج:**
+![Network Monitor Screenshot](images/img.png)
+
+**التقنيات المستخدمة:**
+
+* Python 3.x
+* psutil
+* geoip2
+* FastAPI
+* PyQt5
+
+**المساهمة:**
+
+* Fork المشروع.
+* اعمل تغييراتك.
+* افتح Pull Request.
