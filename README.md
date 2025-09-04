@@ -23,6 +23,8 @@ pip install -r requirements.txt
 ```bash
 python run.py
 ```
+## 🖼️ صور من البرنامج
+![Network Monitor Screenshot](images/screenshot.png)
 
 
 ## 🛠️ التقنيات المستخدمة
