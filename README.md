@@ -29,6 +29,8 @@ python run.py
 ```
 
 **Screenshots:**
+
+
 ![Network Monitor Screenshot](images/img.png)
 
 **Technologies used:**
@@ -77,6 +79,8 @@ python run.py
 ```
 
 **صور البرنامج:**
+
+
 ![Network Monitor Screenshot](images/img.png)
 
 **التقنيات المستخدمة:**
