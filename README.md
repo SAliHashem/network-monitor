@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python run.py
 ```
 ## 🖼️ صور من البرنامج
-![Network Monitor Screenshot](images/screenshot.png)
+![Network Monitor Screenshot](images/img.png)
 
 
 ## 🛠️ التقنيات المستخدمة
