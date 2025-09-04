@@ -18,7 +18,7 @@ Network Monitor is a simple Python application that monitors network connections
 **Installation:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-monitor.git
+git clone https://github.com/SAliHashem/network-monitor.git
 cd network-monitor
 pip install -r requirements.txt
 ```
@@ -66,7 +66,7 @@ python run.py
 **التثبيت:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-monitor.git
+git clone https://github.com/SAliHashem/network-monitor.git
 cd network-monitor
 pip install -r requirements.txt
 ```
